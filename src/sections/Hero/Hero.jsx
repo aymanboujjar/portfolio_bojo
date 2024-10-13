@@ -49,7 +49,7 @@ function Hero() {
         <p className={styles.description}>
         As a passionate Full Stack Web Developer, I specialize in building dynamic, responsive, and user-friendly web applications. With expertise in both front-end and back-end technologies, I thrive on creating seamless digital experiences from concept to deployment. My skills include JavaScript, React and more, allowing me to craft scalable solutions that meet diverse client needs. Whether it’s developing intuitive user interfaces or designing robust server-side logic, I am committed to delivering high-quality code that drives innovation and success in every project I undertake.
         </p>
-        <a >
+        <a href={CV} download >
           <button className="hover">Resume</button>
         </a>
       </div>
